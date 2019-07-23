@@ -49,6 +49,10 @@ aside {
   color: white;
 }
 
+figcaption {
+    font-style: italic;
+}
+
 footer {
   grid-column: span 3;
   padding: 30px;
